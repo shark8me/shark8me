@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I self-describe as a full stack Machine Learning Engineer. 
+I'm a full stack Machine Learning Engineer. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shark8me&count_private=true&include_all_commits=true" />
