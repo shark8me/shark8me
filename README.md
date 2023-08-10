@@ -4,7 +4,7 @@ I'm a full stack Machine Learning Engineer.
 
 🔧 Stuff I built:
 
-  - Bandish editor: A web app for writing and playing [Raga based music](https://bandish.netlify.app)
+  - Bandish editor: A web app for writing and playing [Raga based music](https://swaranotebook.com)
 
 :memo: I write about hacking on data & ML in Python and Clojure [here](https://kaal-daari.medium.com/)
 
